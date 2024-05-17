@@ -73,3 +73,9 @@ end
 gem 'devise'
 
 gem 'grape'
+
+gem 'grape-swagger'
+gem 'grape-swagger-ui'
+gem "grape_on_rails_routes", "~> 0.3.2"
+
+gem "grape-entity", "~> 1.0"
